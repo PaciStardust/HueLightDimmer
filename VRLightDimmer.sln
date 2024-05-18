@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HueLightDimmer", "HueLightDimmer.csproj", "{CF3517C5-BACF-42B5-8BBA-54F6D896DCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3517C5-BACF-42B5-8BBA-54F6D896DCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3517C5-BACF-42B5-8BBA-54F6D896DCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3517C5-BACF-42B5-8BBA-54F6D896DCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3517C5-BACF-42B5-8BBA-54F6D896DCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965773CA-A056-4108-B922-4772A832FD68}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HueLightDimmer": {
+      "commandName": "Project"
+    },
+    "HueLightDimmer Auto": {
+      "commandName": "Project",
+      "commandLineArgs": "a"
+    }
+  }
+}
